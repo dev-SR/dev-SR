@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react, nest.js, express, flask, django and laravel**
+- 💬 Ask me about **react.js, next.js, nest.js, express, flask, django and laravel**
 
 - 📫 How to reach me **hello.dev.sr@gmail.com**
 
