@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sharukh Rahman Soikat</h1>
-<h3 align="center">A design-minded full stack developer focused on building beautiful interfaces & experiences 👨‍💻
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-sr&label=Profile%20views&color=0e75b6&style=flat" alt="dev-sr" /> </p>
 
