@@ -14,3 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sr&show_icons=true&locale=en&layout=compact" alt="dev-sr" /></p>
 
+Powered-by: [github-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
