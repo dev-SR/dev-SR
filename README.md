@@ -9,9 +9,9 @@
 - 📫 **hello.dev.sr@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sr&show_icons=true&locale=en&layout=compact" alt="dev-sr" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-sr&show_icons=true&locale=en&layout=compact" alt="dev-sr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-sr&show_icons=true&locale=en" alt="dev-sr" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
